@@ -1,3 +1,6 @@
+# Note: I know there are some escape codes that have a space around them like for example "\t ", don't worry, it's all
+# done on purpose.
+
 # Intro, first line
 print("Dear diary:")
 
